@@ -32,7 +32,7 @@
                         "genero": "femenino",
                         "telefono": false,
                         "email": false,
-                        "notificacion": true
+                        "notificacion": false
                     },
                     {
                         "id": "1c",
@@ -44,7 +44,7 @@
                         "genero": "masculino",
                         "telefono": false,
                         "email": false,
-                        "notificacion": true
+                        "notificacion": false
                     }
                 ]
             }
