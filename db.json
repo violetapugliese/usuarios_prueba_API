@@ -20,9 +20,12 @@
                         "genero": "masculino",
                         "telefono": 111522334455,
                         "email": "nombre@mail.com",
-                        "notificacion": true
+                        "notificacion": true,
+                        "mensajes": [
+                            {"from": "noreplay@mail.com", "asunto": "Te damos la bienvenida al Portal del Paciente de la Rioja", "mensaje": "Te damos la bienvenida al Portal del Paciente de la Rioja, una plataforma digital que garantiza el derecho al acceso a la salud, para todos y todas los y las habitantea de La Rioja."}
+                        ]
                     },
-                    {
+                    {   
                         "id": "1b",
                         "nombre": "Micaela",
                         "apellido": "Pérez",
